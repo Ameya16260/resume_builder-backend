@@ -1,0 +1,13 @@
+packages.tex
+details.tex
+objective.tex
+header1.tex
+education.tex
+footer.tex
+header2.tex
+experience.tex
+footer.tex
+header3.tex
+project.tex
+footer.tex
+end.tex
